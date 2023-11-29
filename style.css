@@ -4,8 +4,9 @@
     font-size: 25px;
     text-align: center;
     padding: 20px;
-    border-bottom: 10px solid white;
+    border-bottom: 10px solid rgb(74, 31, 231);
     display: flex;
+    margin: 0%;
     }
 .conteudo{
     background-image: linear-gradient(rgb(204, 49, 75),pink);
